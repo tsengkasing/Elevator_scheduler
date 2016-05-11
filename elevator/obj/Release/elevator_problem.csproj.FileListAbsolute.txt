@@ -1,0 +1,13 @@
+F:\Projects\elevator\elevator\bin\Release\elevator.exe.config
+F:\Projects\elevator\elevator\bin\Release\elevator.exe
+F:\Projects\elevator\elevator\bin\Release\elevator.pdb
+F:\Projects\elevator\elevator\obj\Release\elevator_problem.Elevator_status.resources
+F:\Projects\elevator\elevator\obj\Release\elevator.Properties.Resources.resources
+F:\Projects\elevator\elevator\obj\Release\elevator_problem.csproj.GenerateResource.Cache
+F:\Projects\elevator\elevator\obj\Release\elevator.exe
+F:\Projects\elevator\elevator\obj\Release\elevator.pdb
+F:\Projects\elevator\elevator\bin\Release\elevator.exe.manifest
+F:\Projects\elevator\elevator\bin\Release\elevator.application
+F:\Projects\elevator\elevator\obj\Release\elevator.exe.manifest
+F:\Projects\elevator\elevator\obj\Release\elevator.application
+F:\Projects\elevator\elevator\obj\Release\elevator_problem.csprojResolveAssemblyReference.cache
