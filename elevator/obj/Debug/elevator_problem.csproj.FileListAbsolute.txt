@@ -11,3 +11,16 @@ F:\Projects\elevator\elevator\bin\Debug\elevator.exe.manifest
 F:\Projects\elevator\elevator\bin\Debug\elevator.application
 F:\Projects\elevator\elevator\obj\Debug\elevator.exe.manifest
 F:\Projects\elevator\elevator\obj\Debug\elevator.application
+F:\GitHub\Elevator_scheduler\elevator\bin\Debug\elevator.exe.config
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator.exe
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator.pdb
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator_problem.csprojResolveAssemblyReference.cache
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator_problem.Elevator_status.resources
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator.Properties.Resources.resources
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator_problem.csproj.GenerateResource.Cache
+F:\GitHub\Elevator_scheduler\elevator\bin\Debug\elevator.exe.manifest
+F:\GitHub\Elevator_scheduler\elevator\bin\Debug\elevator.application
+F:\GitHub\Elevator_scheduler\elevator\bin\Debug\elevator.exe
+F:\GitHub\Elevator_scheduler\elevator\bin\Debug\elevator.pdb
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator.exe.manifest
+F:\GitHub\Elevator_scheduler\elevator\obj\Debug\elevator.application

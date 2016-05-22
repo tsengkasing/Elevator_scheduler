@@ -123,8 +123,6 @@ namespace elevator_problem
             this.select_elevator_fix.Font = new System.Drawing.Font(this.shangya, 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.button_Fix.Font = new System.Drawing.Font(this.shanghei, 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label_fix.Font = new System.Drawing.Font(this.shangya, 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.StudentNumber.Font = new System.Drawing.Font(this.shanghei, 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.StudentName.Font = new System.Drawing.Font(this.shangya, 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Mailbox.Font = new System.Drawing.Font(this.shanghei, 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.elevator_frame.ColumnHeadersDefaultCellStyle.Font = new System.Drawing.Font(this.shanghei, 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.elevator_frame.RowHeadersDefaultCellStyle.Font = new System.Drawing.Font(this.shanghei, 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));

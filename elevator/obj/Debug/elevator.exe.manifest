@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="elevator.exe" size="88576">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="elevator.exe" size="88064">
       <assemblyIdentity name="elevator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XAOokG41ucuzTrGrxaQRBVE5jHi8i/EZYKIsRyK6tDc=</dsig:DigestValue>
+        <dsig:DigestValue>91hBzMKTx9Zp2MoPln9GCLb3Qp0UrPTI551gOqfJtLg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
